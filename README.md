@@ -18,7 +18,7 @@
 - Details:
 - Links: [N](https://nbviewer.org/github/vishwajeet7381/cse4022/blob/main/task3/task31.ipynb) [C](https://colab.research.google.com/github/vishwajeet7381/cse4022/blob/main/task3/task31.ipynb) [B](https://mybinder.org/v2/gh/vishwajeet7381/cse4022/6fdd899a86c3efa4ad3b2420972a5709907943fa?urlpath=lab%2Ftree%2Ftask3%2Ftask31.ipynb) [G](https://github.com/vishwajeet7381/cse4022/blob/main/task3/task31.ipynb)
 
-[Task-4](https://github.com/vishwajeet7381/cse4022/tree/main/task3) (17-02-2023)
+[Task-4](https://github.com/vishwajeet7381/cse4022/tree/main/task4) (17-02-2023)
 
 - Details:
 - Links: [N](https://nbviewer.org/github/vishwajeet7381/cse4022/blob/main/task4/task41.ipynb) [C](https://colab.research.google.com/github/vishwajeet7381/cse4022/blob/main/task4/task41.ipynb) [B](https://mybinder.org/v2/gh/vishwajeet7381/cse4022/6fdd899a86c3efa4ad3b2420972a5709907943fa?urlpath=lab%2Ftree%2Ftask4%2Ftask41.ipynb) [G](https://github.com/vishwajeet7381/cse4022/blob/main/task4/task41.ipynb)
